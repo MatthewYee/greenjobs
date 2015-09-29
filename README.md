@@ -21,6 +21,6 @@ Provide the following scripts in your file:
  </script>
  ```
 
- # Credit
+ #Credit
 
  Uses the [Underscore](http://http://underscorejs.org/) library.
